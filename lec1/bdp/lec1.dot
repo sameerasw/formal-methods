@@ -1,3 +1,4 @@
 digraph {
+Student [ label=" Student " shape= box ]
 
 }
